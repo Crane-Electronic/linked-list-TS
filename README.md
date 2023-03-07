@@ -1,4 +1,4 @@
-# Linked List ([Demo](https://simonlongstaff.github.io/linkedListDemo))
+# Linked List ([Demo](https://simonlongstaff.github.io/linkedListDemo)) [[NPM](https://www.npmjs.com/package/@simonlongstaff/linked-list)]
 A TypeScript LinkedList data type implementation with a current node tracking function
 
 
